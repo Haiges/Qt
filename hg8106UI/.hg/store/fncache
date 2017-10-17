@@ -1,0 +1,9 @@
+data/hg8106UI.pro.i
+data/cmdwidget.cpp.i
+data/main.cpp.i
+data/cmdwidget.h.i
+data/serialcmdwidget.h.i
+data/test.cpp.i
+data/mainwindow.ui.i
+data/serialcmdwidget.cpp.i
+data/test.h.i
